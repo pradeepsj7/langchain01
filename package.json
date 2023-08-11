@@ -1,17 +1,26 @@
 {
-	"name": "basics01",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"type": "module",
-	"dependencies": {
-		"dotenv": "^16.3.1",
-		"langchain": "^0.0.122"
-	}
+  "name": "basics01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.122"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepsj7/langchain01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pradeepsj7/langchain01/issues"
+  },
+  "homepage": "https://github.com/pradeepsj7/langchain01#readme",
+  "description": ""
 }
